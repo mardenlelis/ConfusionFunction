@@ -1,7 +1,7 @@
 class CalculateMetrics:
 
     """
-    Calcula métricas de avaliação de classificadores.
+    This class compute classifier evaluation metrics.
     
     """
 
