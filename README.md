@@ -85,7 +85,7 @@ Description: Measures the similarity between the predicted and actual classes.
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/ConfusionFunction.git
+git clone https://github.com/mardenlelis/ConfusionFunction.git
 cd ConfusionFunction
 
 
